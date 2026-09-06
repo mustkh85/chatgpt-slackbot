@@ -1,0 +1,12 @@
+{
+  "name": "여름, 너와 · 3D Campus",
+  "short_name": "여름, 너와",
+  "description": "여름 대학가를 걷고, 실사 기반 장면과 터치 대화로 관계를 만드는 비주얼노블.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#2c253d",
+  "theme_color": "#bb7189",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
